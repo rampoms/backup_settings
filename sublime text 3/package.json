@@ -1,0 +1,11 @@
+{
+	"emmet": {
+		"homepage": "http://emmet.io/",
+		"package controll": "https://sublime.wbond.net/packages/Emmet",
+		"repository": "https://github.com/sergeche/emmet-sublime"
+	},
+	"Theme - itg.flat": {
+		"package controll": "https://sublime.wbond.net/packages/Theme%20-%20itg.flat",
+		"repository": "https://github.com/itsthatguy/theme-itg-flat"
+	}
+}
