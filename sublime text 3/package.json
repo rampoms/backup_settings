@@ -21,6 +21,10 @@
 		"package controll": "https://sublime.wbond.net/packages/Bootstrap%203%20Snippets",
 		"repository": "https://github.com/JasonMortonNZ/bs3-sublime-plugin"
 	},
+	"Foundation 5 Snippets": {
+		"package controll" : "https://sublime.wbond.net/packages/Foundation%205%20Snippets",
+		"repository": "https://github.com/zurb/foundation-5-sublime-snippets"
+	},
 	"DocBlockr": {
 		"package controll": "https://sublime.wbond.net/packages/DocBlockr",
 		"repository": "https://github.com/spadgos/sublime-jsdocs"
