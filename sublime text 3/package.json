@@ -1,32 +1,42 @@
 {
-	"emmet": {
-		"homepage": "http://emmet.io/",
-		"package controll": "https://sublime.wbond.net/packages/Emmet",
-		"repository": "https://github.com/sergeche/emmet-sublime"
-	},
-	"Theme - itg.flat": {
-		"package controll": "https://sublime.wbond.net/packages/Theme%20-%20itg.flat",
-		"repository": "https://github.com/itsthatguy/theme-itg-flat"
-	},
-	"BracketHightlighter": {
-		"package controll": "https://sublime.wbond.net/packages/BracketHighlighter",
-		"repository": "https://github.com/facelessuser/BracketHighlighter"
-	},
-	"ColorPicker": {
-		"homepage": "http://weslly.github.io/ColorPicker/",
-		"package controll": "https://sublime.wbond.net/packages/ColorPicker",
-		"repository": "https://github.com/weslly/ColorPicker"
-	},
-	"Bootstrap 3 Snippets": {
-		"package controll": "https://sublime.wbond.net/packages/Bootstrap%203%20Snippets",
-		"repository": "https://github.com/JasonMortonNZ/bs3-sublime-plugin"
-	},
-	"Foundation 5 Snippets": {
-		"package controll" : "https://sublime.wbond.net/packages/Foundation%205%20Snippets",
-		"repository": "https://github.com/zurb/foundation-5-sublime-snippets"
-	},
-	"DocBlockr": {
-		"package controll": "https://sublime.wbond.net/packages/DocBlockr",
-		"repository": "https://github.com/spadgos/sublime-jsdocs"
-	}
+    "emmet": {
+        "homepage": "http://emmet.io/",
+        "package controll": "https://sublime.wbond.net/packages/Emmet",
+        "repository": "https://github.com/sergeche/emmet-sublime",
+        "decription": "Упрощает ввод html тегов",
+        "how to use": "tag + tab"
+    },
+    "Theme - itg.flat": {
+        "package controll": "https://sublime.wbond.net/packages/Theme%20-%20itg.flat",
+        "repository": "https://github.com/itsthatguy/theme-itg-flat",
+        "decription": "simply dark theme"
+    },
+    "BracketHightlighter": {
+        "package controll": "https://sublime.wbond.net/packages/BracketHighlighter",
+        "repository": "https://github.com/facelessuser/BracketHighlighter",
+        "decription": "highlight block"
+    },
+    "ColorPicker": {
+        "homepage": "http://weslly.github.io/ColorPicker/",
+        "package controll": "https://sublime.wbond.net/packages/ColorPicker",
+        "repository": "https://github.com/weslly/ColorPicker",
+        "decription": "gui color pick",
+        "how to use": "select color [#333] and press ctrl+shift+c"
+    },
+    "Bootstrap 3 Snippets": {
+        "package controll": "https://sublime.wbond.net/packages/Bootstrap%203%20Snippets",
+        "repository": "https://github.com/JasonMortonNZ/bs3-sublime-plugin",
+        "description": "snipets for bootstrap 3",
+        "how to use": "press ctrl+shift+p, wripte bs3- and select what need"
+    },
+    "Foundation 5 Snippets": {
+        "package controll" : "https://sublime.wbond.net/packages/Foundation%205%20Snippets",
+        "repository": "https://github.com/zurb/foundation-5-sublime-snippets",
+        "description": "snipets for foundation 5",
+        "how to use": "press ctrl+shift+p, wripte zf- and select what need"
+    },
+    "DocBlockr": {
+        "package controll": "https://sublime.wbond.net/packages/DocBlockr",
+        "repository": "https://github.com/spadgos/sublime-jsdocs"
+    }
 }
