@@ -1,16 +1,17 @@
 {
-    "theme": "itg.flat.dark.sublime-theme",
-    "color_scheme": "Packages/Theme - itg.flat/itg.dark.tmTheme",
-    "itg_sidebar_tree_xlarge": true,
-    "itg_scrollbar_medium": true,
+  // themes setting
+  "theme": "itg.flat.dark.sublime-theme",
+  "color_scheme": "Packages/Theme - itg.flat/itg.dark.tmTheme",
+  "itg_sidebar_tree_xlarge": true,
+  "itg_scrollbar_medium": true,
 
-    "draw_white_space": "all",
+  // edit setting
+  "draw_white_space": "all",
+  "tab_size": 2,
+  "translate_tabs_to_spaces": true,
 
-    "tab_size": 4,
-    "translate_tabs_to_spaces": true,
-
-    "ignored_packages":
-    [
-        "Vintage"
-    ]
+  // sublime setting
+  "ignored_packages": [
+    "Vintage"
+  ]
 }
