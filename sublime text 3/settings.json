@@ -1,17 +1,20 @@
 {
-  // themes setting
-  "theme": "itg.flat.dark.sublime-theme",
-  "color_scheme": "Packages/Theme - itg.flat/itg.dark.tmTheme",
-  "itg_sidebar_tree_xlarge": true,
-  "itg_scrollbar_medium": true,
-
-  // edit setting
-  "draw_white_space": "all",
-  "tab_size": 2,
-  "translate_tabs_to_spaces": true,
-
-  // sublime setting
-  "ignored_packages": [
-    "Vintage"
-  ]
+	"color_scheme": "Packages/Agila Theme/Agila Cobalt.tmTheme",
+	"draw_white_space": "all",
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"itg_scrollbar_medium": true,
+	"itg_sidebar_tree_xlarge": true,
+	"tab_size": 2,
+	"theme": "Agila Cobalt.sublime-theme",
+	"theme_agila_auto_complete_pink": true,
+	"theme_agila_camouflage_semi": true,
+	"theme_agila_compact_sidebar": true,
+	"theme_agila_horizontal_scrollbar_pink": true,
+	"theme_agila_sidebar_heading_lightblue": true,
+	"theme_agila_vertical_scrollbar_pink": true,
+	"translate_tabs_to_spaces": true
 }
